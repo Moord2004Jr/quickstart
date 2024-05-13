@@ -26,6 +26,7 @@
   },
   "devDependencies": {
     "@types/classnames": "^2.2.11",
+    "eslint-config-react-app": "^7.0.1",
     "react-scripts": "^5.0.1"
   },
   "peerDependencies": {
